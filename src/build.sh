@@ -25,6 +25,6 @@ sfntedit -d DSIG NomNaTong-Regular.ttf
 
 # build NomNaTongLight.ttf for backwards compatibillity with some Microsoft apps
 cp NomNaTong-Regular.ttf NomNaTongLight.ttf
-ttx  -f -m  NomNaTongLight.ttf NomNaTongLight_name.ttx
+ttx  -f -m  NomNaTongLight.ttf NomNaTongLight.ttx
 
 # EOF
