@@ -21,4 +21,4 @@ The primary build script is *build.sh* This requires the 'pfa' font, *font.pfa*,
 
 Since many font editors do not support output of 'pfa' fonts, there is a separate build script, *build_pfa.sh*, which will generate a 'pfa' from a UFO package. Font Lab and other editors support export of UFO Packages. Run this script first if you modify the font and want to build from the UFO package.
 
-## Thanks Special thanks to Ken Lunde for his help in setting up the ADFKO build and other guidance. 
+# Thanks Special thanks to Ken Lunde for his help in setting up the ADFKO build and other guidance. 
