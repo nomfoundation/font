@@ -4,7 +4,7 @@ languagesystem kana dflt;
 languagesystem latn dflt;
 
 table head {
-  FontRevision 5.040;
+  FontRevision 5.050;
 } head;
 
 table hhea {
