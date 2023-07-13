@@ -4,7 +4,7 @@ languagesystem kana dflt;
 languagesystem latn dflt;
 
 table head {
-  FontRevision 5.050;
+  FontRevision 5.060;
 } head;
 
 table hhea {
@@ -273,6 +273,7 @@ feature ccmp {
 	sub uni7184 u16FF1 by uF1FA4;
 	sub uni722D u16FF1 by uF1F5D;
 	sub uni7247 u16FF0 by uF0338;
+	sub uni7247 u16FF1 by uF2583;
 	sub uni724C u16FF1 by uF1EA0;
 	sub uni725B u16FF1 by uF0AC0;
 	sub uni725F u16FF1 by uF0A10;
@@ -395,6 +396,7 @@ feature ccmp {
 	sub uni90CE u16FF1 by uF1BB6;
 	sub uni90E8 u16FF1 by uF1BB7;
 	sub uni90FD u16FF1 by uF1F39;
+	sub uni9192 u16FF1 by uF2592;
 	sub uni91CF u16FF0 by uF085D;
 	sub uni91DD u16FF1 by uF1BD5;
 	sub uni9280 u16FF1 by uF1F99;
