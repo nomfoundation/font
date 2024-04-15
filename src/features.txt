@@ -4,7 +4,7 @@ languagesystem kana dflt;
 languagesystem latn dflt;
 
 table head {
-  FontRevision 5.090;
+  FontRevision 5.100;
 } head;
 
 table hhea {
@@ -53,6 +53,7 @@ feature ccmp {
 	sub u2195A u16FF1 by uF0133;
 	sub u22B02 u16FF1 by uF01FF;
 	sub u22BD5 u16FF1 by uF1FF2;
+	sub u22CA6 u16FF1 by uF262D;
 	sub u24930 u16FF1 by uF075C;
 	sub u24F38 u16FF1 by uF072E;
 	sub u2562A u16FF1 by uF1EAB;
@@ -60,6 +61,10 @@ feature ccmp {
 	sub u2A7FD u16FF1 by uF08E4;
 	sub u2B022 u16FF1 by uF072A;
 	sub u2B52E u16FF1 by uF08E6;
+	sub u3144F u16FF0 by uF1876;
+	sub u31722 u16FF1 by uF0B46;
+	sub u31AB5 u16FF1 by uF187C;
+	sub u31F57 u16FF1 by uF0B4B;
 	sub uni3A0B u16FF1 by uF2034;
 	sub uni3AAF u16FF0 by uF1631;
 	sub uni3AAF u16FF1 by uF162F;
@@ -113,9 +118,11 @@ feature ccmp {
 	sub uni5362 u16FF0 by uF16B1;
 	sub uni5366 u16FF1 by uF1EAE;
 	sub uni5371 u16FF1 by uF1CC8;
+	sub uni53BC u16FF1 by uF2629;
 	sub uni53CA u16FF1 by uF0074;
 	sub uni53E6 u16FF0 by uF175A;
 	sub uni53EC u16FF1 by uF007B;
+	sub uni53EF u16FF1 by uF09F1;
 	sub uni53F0 u16FF0 by uF1760;
 	sub uni53F0 u16FF1 by uF0C10;
 	sub uni5404 u16FF1 by uF007D;
@@ -144,6 +151,7 @@ feature ccmp {
 	sub uni5916 u16FF1 by uF1F87;
 	sub uni591A u16FF0 by uF071D;
 	sub uni5954 u16FF1 by uF1F2F;
+	sub uni5973 u16FF1 by uF262A;
 	sub uni5974 u16FF1 by uF08C1;
 	sub uni5982 u16FF0 by uF17D0;
 	sub uni59A5 u16FF1 by uF0A55;
@@ -255,7 +263,9 @@ feature ccmp {
 	sub uni6C38 u16FF1 by uF1F9D;
 	sub uni6C3D u16FF1 by uF1FF4;
 	sub uni6C60 u16FF0 by uF02CF;
+	sub uni6C90 u16FF1 by uF0A14;
 	sub uni6CD2 u16FF0 by uF188D;
+	sub uni6CD5 u16FF1 by uF262E;
 	sub uni6CE3 u16FF1 by uF1F5C;
 	sub uni6DBC u16FF1 by uF1FA1;
 	sub uni6E05 u16FF1 by uF1F97;
@@ -279,6 +289,7 @@ feature ccmp {
 	sub uni725F u16FF1 by uF0A10;
 	sub uni7262 u16FF1 by uF1F92;
 	sub uni7279 u16FF1 by uF202B;
+	sub uni7325 u16FF1 by uF2399;
 	sub uni74E2 u16FF1 by uF0B8B;
 	sub uni751A u16FF0 by uF1A2F;
 	sub uni751A u16FF1 by uF1A2E;
@@ -415,11 +426,10 @@ feature ccmp {
 	sub uni97F3 u16FF1 by uF0BFE;
 	sub uni9805 u16FF1 by uF1F6D;
 	sub uni9852 u16FF1 by uF1C02;
-	sub uni98E0 u16FF1 by uF1C0A;
+	sub uni98DF u16FF1 by uF1C0A;
 	sub uni991E u16FF1 by uF0BAC;
 	sub uni99AD u16FF1 by uF1F6E;
 	sub uni9AD8 u16FF0 by uF1C1B;
-	sub uni9B5A u16FF0 by u29D5C;
 	sub uni9B5A u16FF1 by uF0863;
 	sub uni9B6F u16FF0 by uF1C2F;
 	sub uni9BAE u16FF1 by uF0BAE;
@@ -429,3 +439,4 @@ feature ccmp {
 	sub uni9F0E u16FF1 by uF0925;
 	sub uni9F4A u16FF1 by uF0A30;
 } ccmp;
+
