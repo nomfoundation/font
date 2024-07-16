@@ -163,6 +163,7 @@ feature ccmp {
 	sub uni5B5D u16FF0 by uF1E5C;
 	sub uni5B64 u16FF1 by uF0BA1;
 	sub uni5B6B u16FF1 by uF0AD4;
+	sub uni5B89 u16FF0 by uF263D;
 	sub uni5B8F u16FF1 by uF1EAC;
 	sub uni5B9C u16FF1 by uF0CC9;
 	sub uni5BC5 u16FF1 by uF09CC;
