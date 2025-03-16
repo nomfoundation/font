@@ -4,7 +4,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
 
 # Remove old versions
-for file in NomNaTong-Regular.otf NomNaTong-Regular.ttf NomNaTongLight.ttf
+for file in NomNaTong-Regular.otf NomNaTong-Regular.ttf
 do
     if [[ -f $file ]]
     then
@@ -22,9 +22,5 @@ makeotf -r -f font.pfa -omitMacNames -ff features.txt -mf FontMenuNameDB -ga -ci
 # Convert the OTF to TTF
 otf2ttf NomNaTong-Regular.otf
 sfntedit -d DSIG NomNaTong-Regular.ttf
-
-# build NomNaTongLight.ttf for backwards compatibillity with some Microsoft apps
-cp NomNaTong-Regular.ttf NomNaTongLight.ttf
-ttx  -f -m  NomNaTongLight.ttf NomNaTongLight.ttx
 
 # EOF
