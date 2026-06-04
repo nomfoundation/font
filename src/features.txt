@@ -14,13 +14,13 @@ table hhea {
 } hhea;
 
 table name {
-  nameid 0 "\00A9 2011\20132022 The Vietnamese Nom Preservation Foundation \2014 Nom Na Group. All rights reserved.";
+  nameid 0 "\00A9 2011\20132026 The Vietnamese Nom Preservation Foundation \2014 Nom Na Group. All rights reserved.";
   nameid 7 "Nom Na Tong is a trademark of the The Vietnamese Nom Preservation Foundation.";
   nameid 8 "The Vietnamese Nom Preservation Foundation \2014 Nom Na Group";
   nameid 9 "VNPF Nom Na Group";
   nameid 10 "Ngo Trung Viet, To Trong Duc, Le Van Cuong & Luong Thi Hanh.";
   nameid 12 "http://nomfoundation.org/";
-  nameid 13 "MIT License\000D\000A\000D\000A\00A9 2011\20132020 The Vietnamese Nom Preservation Foundation \2022 Nom Na Group. All rights reserved.\000D\000A\000D\000APermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \0022Software\0022), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\000D\000A\000D\000AThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\000D\000A\000D\000ATHE SOFTWARE IS PROVIDED \0022AS IS\0022, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.";
+  nameid 13 "MIT License\000D\000A\000D\000A\00A9 2011\20132026 The Vietnamese Nom Preservation Foundation \2014 Nom Na Group. All rights reserved.\000D\000A\000D\000APermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \0022Software\0022), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\000D\000A\000D\000AThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\000D\000A\000D\000ATHE SOFTWARE IS PROVIDED \0022AS IS\0022, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.";
   nameid 14 "https://opensource.org/licenses/MIT";
 } name;
 
